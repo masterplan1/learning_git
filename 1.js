@@ -1,4 +1,4 @@
 alert(5);
-function asd(){
-	return 1;
+function notAsd(){
+	return 2;
 }
